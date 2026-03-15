@@ -1,2 +1,58 @@
-# awesome-paperclip
-Collection of the best Paperclip plugins
+# Awesome Paperclip [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome [Paperclip](https://github.com/paperclipai/paperclip) plugins, tools, and resources.
+
+[Paperclip](https://github.com/paperclipai/paperclip) is an open-source orchestration platform for zero-human companies.
+
+---
+
+## Contents
+
+- [Official](#official)
+- [Plugins](#plugins)
+- [Tools & Utilities](#tools--utilities)
+- [Resources](#resources)
+- [Contributing](#contributing)
+
+---
+
+## Official
+
+Official repositories and resources from the Paperclip team.
+
+- [Paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies.
+- [Paperclip Website](https://github.com/paperclipai/paperclip-website) - The official Paperclip website source.
+
+## Plugins
+
+Extensions and integrations that add new capabilities to Paperclip.
+
+- [paperclip-plugin-chat](https://github.com/webprismdevin/paperclip-plugin-chat) - Interactive AI chat copilot for managing tasks, agents, and workspaces.
+- [paperclip-plugin-discord](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence.
+- [paperclip-plugin-github-issues](https://github.com/mvanhorn/paperclip-plugin-github-issues) - Bidirectional GitHub Issues sync for Paperclip.
+- [paperclip-plugin-slack](https://github.com/mvanhorn/paperclip-plugin-slack) - Slack notifications plugin — posts to Slack when issues are created, completed, or need approval.
+
+## Tools & Utilities
+
+Bots, bundles, and helper tools for the Paperclip ecosystem.
+
+- [oh-my-paperclip](https://github.com/gsxdsm/oh-my-paperclip) - The go-to bundle of Paperclip plugins.
+- [paperclip-discord-bot](https://github.com/rekon307/paperclip-discord-bot) - Discord bot for the Paperclip community — GitHub OAuth contributor roles and daily AI summaries.
+
+## Resources
+
+Guides, books, and learning materials about Paperclip.
+
+- [Headcount Zero](https://github.com/AnthonyDavidAdams/zero-employee-company-book) - *Headcount Zero: How to Build an AI-Run Company with Paperclip* — an open-source book.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+
+In short:
+
+1. Fork this repository.
+2. Add your link to the appropriate category in `README.md`.
+3. Open a pull request with a clear title and description.
