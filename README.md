@@ -1,6 +1,6 @@
-# Awesome Paperclip [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🖇️ Awesome Paperclip [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome [Paperclip](https://github.com/paperclipai/paperclip) plugins, tools, and resources.
+> A curated list of awesome [Paperclip](https://github.com/paperclipai/paperclip) plugins, tools, and resources. It's time to clip! 📎
 
 [Paperclip](https://github.com/paperclipai/paperclip) is an open-source orchestration platform for zero-human companies.
 
